@@ -102,7 +102,7 @@ Professionals use ChatGPT to complete Knowledge_Intensive work faster while main
 - **Impact**: Results in logical errors and structural deviations from the original user requirement.
 
 ## **Evidence**
-**1. NETWORK & UI STATE SYNC FAILURES (Evidence 1 & 4)**
+**1. NETWORK & UI STATE SYNC FAILURES**
 **User Testimony**
 - "I mostly use chatgpt on PC so it's not usually a problem but there's a really annoying glitch that happens A LOT where I'll type up a message only for it to disappear when I hit send. It just happened"
 - "GPT answers the prompt, the response finishes, but then the input box gets stuck in a loading state (For an extremely long time) The arrow/submit button disappears, so I can't send anything at all. Refreshing the page also does not fix it. ~ Tried clearing cache, history, switching browsers, but the issue keeps coming back."
@@ -110,7 +110,7 @@ Professionals use ChatGPT to complete Knowledge_Intensive work faster while main
 - **Category**: Network and Context Disruption / UI Async State Deadlock
 - **Core Issue**: Vulnerable local UI state synchronization where input data is cleared before server-side confirmation, combined with streaming thread deadlocks that leave the text area frozen in an infinite loading loop.
 
-**2. CONSTRAINT DEVIATION & MODALITY HIJACKING (Evidence 2 & 3)**
+**2. CONSTRAINT DEVIATION & MODALITY HIJACKING**
 **User Testimony**
 - "The model (v5.3) has become a nightmare—it completely ignores explicit instructions and gaslights you by doing things I never asked for, like forcing web searches or generating random images instead of just following"
 - "Absolutely horrid. It generates photos when you never ask for one. The app refuses to adhere to previously preferences."
@@ -118,7 +118,7 @@ Professionals use ChatGPT to complete Knowledge_Intensive work faster while main
 - **Category**: Constraint and Modality Compliance Friction / Contextual Memory Loss
 - **Core Issue**: Aggressive internal tool-routing architectures that ignore user system preferences, negative bounds, and direct text parameters to force unwanted image generation or browser execution workflows.
 
-**3. BINARY TEXT EDITING CORRUPTION (Evidence 3 & 5)**
+**3. BINARY TEXT EDITING CORRUPTION**
 **User Testimony**
 - "You can literally go over small or large details with little to no change. It's like"
 - "I've tried asking ChatGPT to help me improve my prose, but it either barely tweaks anything or makes such sweeping changes that it alters the course of the entire scene."

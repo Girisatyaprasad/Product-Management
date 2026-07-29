@@ -33,16 +33,16 @@ Content creators on Instagram who regularly publish Reels and posts to grow thei
 
 ## Jobs To Be Done
 
-Functional Job
+#### **Functional Job**
 When I consistently publish high-quality Reels and posts, I want Instagram to distribute my content to relevant audiences so that I can grow my audience without relying solely on paid promotion.
 
-Emotional Job
+#### **Emotional Job**
 I want to feel that my effort is rewarded fairly and that great content has a genuine opportunity to reach people instead of being hidden by an unpredictable algorithm.
 
-Social Job
+#### **Social Job**
 I want to establish credibility, become recognized in my niche, and build meaningful relationships with followers, brands, and other creators.
 
-Core Job
+#### **Core Job**
 Help me consistently grow a relevant audience through organic content so I can build a sustainable personal brand and create future career or business opportunities.
 
 ## Current Experience
